@@ -73,6 +73,7 @@ h3 {
   margin: 0;
 }
 
+/*
 @media only screen and (max-width: 992px){
 #bio{
   background-image: url("https://i.imgsafe.org/14/1474dcc25a.png");
@@ -98,7 +99,7 @@ span > h3 {
 
 
 }
-
+*/
 @media only screen and (min-width: 992px) {
 
 body{
