@@ -1,1 +1,1 @@
-Rebecca Foster's portfolio first draft for review. 
+Rebecca Foster's portfolio, with hover options for widescreen.
